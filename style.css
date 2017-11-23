@@ -1,0 +1,17 @@
+body {
+	background-color: powderblue;
+}
+
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.form {
+	padding-left: 34%;
+	padding-top: 1%;
+}
+
+.para{
+	padding-left: 50%; 
+}
